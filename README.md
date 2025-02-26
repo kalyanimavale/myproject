@@ -1,7 +1,7 @@
 # myproject
 
 ## Overview
-This project aims to [describe what the project does]. It is designed to [explain the purpose and goals]. 
+This project aims to develop the standards how community behave and interact with each other and markdown contribution guidelines . It is designed to explain the purpose and goals. 
 
 ## Features
 - Feature 1
